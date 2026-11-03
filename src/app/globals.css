@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /* Theme Configurations */
-@theme {
+@theme inline {
   /* Brand Colors */
   --color-primary: #702675; /* Deep Purple */
   --color-secondary: #ff8a00; /* Vibrant Orange */
